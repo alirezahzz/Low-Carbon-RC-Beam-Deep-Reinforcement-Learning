@@ -36,7 +36,7 @@ The framework consists of:
 
 This synergy between predictive analytics and autonomous decision-making provides a powerful, data-driven tool for sustainable structural engineering.
 
-![Framework Overview](images/framework-overview.png)
+![Framework Overview](Images/framework-overview.png)
 *Figure 1: Two-stage framework architecture for intelligent low-carbon RC beam design*
 
 ---
